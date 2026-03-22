@@ -30,7 +30,7 @@ function Instagram() {
           <h1 className="text-xl font-light font-['Petrona']">Síguenos</h1>
           <div className="line-2"></div>
         </div>
-        <p className="font-['Petrona']">
+        <p className="font-['Petrona'] text-center">
           Nuestro{" "}
           <a
             href="https://www.instagram.com/"
